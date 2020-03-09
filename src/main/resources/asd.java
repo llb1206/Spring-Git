@@ -1,5 +1,3 @@
-package com.spring;
-
 public class asd {
     String  asds="asdsadsadsad";
     String  wqeqwewqe="as*********d";
